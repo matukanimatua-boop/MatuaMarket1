@@ -1,0 +1,1 @@
+Para ter todos os ficheiros .tsx, deves copiar o conteúdo de cada ficheiro do editor para a pasta 'src' do teu projeto local.

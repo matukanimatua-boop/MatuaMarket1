@@ -1,2 +1,7 @@
-# MatuaMarket1
-app de compra e venda em Moçambique 
+# Matua Market
+
+App comunitário moçambicano.
+
+## Instalação
+1. `npm install`
+2. `npm run dev`
